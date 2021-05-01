@@ -1,0 +1,13 @@
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\bin\Debug\netcoreapp3.1\Huffman Decoder.exe
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\bin\Debug\netcoreapp3.1\Huffman Decoder.deps.json
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\bin\Debug\netcoreapp3.1\Huffman Decoder.runtimeconfig.json
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\bin\Debug\netcoreapp3.1\Huffman Decoder.runtimeconfig.dev.json
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\bin\Debug\netcoreapp3.1\Huffman Decoder.dll
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\bin\Debug\netcoreapp3.1\Huffman Decoder.pdb
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\obj\Debug\netcoreapp3.1\Huffman Decoder.csprojAssemblyReference.cache
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\obj\Debug\netcoreapp3.1\Huffman Decoder.AssemblyInfoInputs.cache
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\obj\Debug\netcoreapp3.1\Huffman Decoder.AssemblyInfo.cs
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\obj\Debug\netcoreapp3.1\Huffman Decoder.csproj.CoreCompileInputs.cache
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\obj\Debug\netcoreapp3.1\Huffman Decoder.dll
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\obj\Debug\netcoreapp3.1\Huffman Decoder.pdb
+D:\MAAT\Huffman\C#\Huffman Decoder\Huffman Decoder\Huffman Decoder\obj\Debug\netcoreapp3.1\Huffman Decoder.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\MAAT\Huffman\C#\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\MAAT\Huffman\C#\Huffman Encoder\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
